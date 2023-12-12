@@ -1,8 +1,28 @@
-# React + Vite
+# ParentFriendlyVideoSaver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+ParentFriendlyVideoSaver is a web application designed to make it easy and safe for parents to download videos from YouTube and Facebook. This tool is specifically created to provide a straightforward, user-friendly experience, free from misleading ads and potential security risks like viruses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Intuitive interface for non-technical users.
+- Separate input fields for YouTube and Facebook video URLs.
+- One-click download process for each platform.
+- Secure and ad-free experience, ensuring a safe environment.
+
+## How to Use
+
+1. Copy the URL of the desired YouTube or Facebook video.
+2. Paste it into the appropriate input field on the application.
+3. Click on 'Download from YouTube' or 'Download from Facebook' button.
+4. The video will be processed, and a download link will be available.
+
+## Installation
+
+To set up the application locally:
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install the necessary dependencies with `yarn`.
+4. Start the application using `yarn dev`.

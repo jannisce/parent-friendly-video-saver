@@ -7,7 +7,7 @@ ParentFriendlyVideoSaver is a web application designed to make it easy and safe 
 ## Features
 
 - Intuitive interface for non-technical users.
-- Separate input fields for YouTube and Facebook video URLs.
+- A single input field for video URLs that automatically detects whether the URL belongs to YouTube or Facebook.
 - One-click download process for each platform.
 - Secure and ad-free experience, ensuring a safe environment.
 
@@ -15,8 +15,8 @@ ParentFriendlyVideoSaver is a web application designed to make it easy and safe 
 
 1. Copy the URL of the desired YouTube or Facebook video.
 2. Paste it into the appropriate input field on the application.
-3. Click on 'Download from YouTube' or 'Download from Facebook' button.
-4. The video will be processed, and a download link will be available.
+3. Click on 'Download video' button.
+4. The video will be processed, and will automatically start the download.
 
 ## Installation
 
